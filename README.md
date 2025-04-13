@@ -45,11 +45,7 @@ cd @weather
 ### API Key Setup
 
 1. Sign up for a free account at [OpenWeatherMap](https://openweathermap.org/)
-2. Get your API key from your account dashboard
-3. Replace `'YOUR_API_KEY'` in `script.js` with your actual API key:
-```javascript
-const API_KEY = 'your-api-key-here';
-```
+2. Get your API key from your account dashboard.
 
 ## Usage
 
@@ -154,6 +150,5 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
-
-Project Link: [https://github.com/yourusername/weather-dashboard](https://github.com/yourusername/weather-dashboard) 
+Lavi bansal - (bansallavi37@gmail.com)
+Project Link: (https://github.com/Lavibansal/-Real-Time-Weather-Tracker-)
